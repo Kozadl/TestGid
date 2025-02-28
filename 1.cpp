@@ -3,6 +3,7 @@
 void print(int a)
 {
     // jhgfgh
+    //lkjhg
     std::cout<<a<<std::endl;
     int g=9;
 }
