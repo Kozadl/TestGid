@@ -3,6 +3,7 @@
 void print(int a)
 {
     // jhgfgh
+    std::cout<<"Hola"<<std::endl;
     std::cout<<a<<std::endl;
     int g=9;
 }
