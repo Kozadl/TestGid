@@ -8,6 +8,7 @@ void print(int a)
 }
 int main()
 {
+    //jkkkk
     std::cout<<"hello"<<std::endl;
     return 0;
 }
