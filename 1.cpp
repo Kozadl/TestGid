@@ -8,6 +8,11 @@ void print(int a)
     int g=9;
 }
 
+void drew()
+{
+    
+}
+
 
 int pow(int a, int b)
 {
