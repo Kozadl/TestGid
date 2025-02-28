@@ -7,6 +7,11 @@ void print(int a)
     std::cout<<a<<std::endl;
     int g=9;
 }
+
+void drew()
+{
+    
+}
 int main()
 { 
     std::cout<<"hello"<<std::endl;
