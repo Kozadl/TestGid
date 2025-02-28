@@ -10,6 +10,7 @@ void print(int a)
 
 int pow(int a, int b)
 {
+    int c=a*b;
     return 0;
 }
 int main()
